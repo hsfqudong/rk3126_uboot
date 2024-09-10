@@ -1,0 +1,7 @@
+arch/arm/lib/stacktrace.c:205:13:pop_vsp.constprop	8	static
+arch/arm/lib/stacktrace.c:182:13:unwind_exec_read_byte.constprop	24	static
+arch/arm/lib/stacktrace.c:401:6:unwind_stack_arm32	48	static
+arch/arm/lib/stacktrace.c:447:5:relocate_exidx	0	static
+arch/arm/lib/stacktrace.c:477:6:print_stack_arm32	48	static
+arch/arm/lib/stacktrace.c:518:6:dump_core_stack	120	static
+arch/arm/lib/stacktrace.c:548:6:dump_stack	80	static

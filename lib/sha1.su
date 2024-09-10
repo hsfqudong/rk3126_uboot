@@ -1,0 +1,9 @@
+lib/sha1.c:67:6:sha1_starts	0	static
+lib/sha1.c:250:13:sha1_process	136	static
+lib/sha1.c:265:6:sha1_update.part.0	32	static
+lib/sha1.c:265:6:sha1_update	0	static
+lib/sha1.c:317:6:sha1_finish	24	static
+lib/sha1.c:358:6:sha1_csum	120	static
+lib/sha1.c:377:6:sha1_csum_wd	120	static
+lib/sha1.c:413:6:sha1_hmac	280	static
+lib/sha1.c:517:5:sha1_self_test	0	static

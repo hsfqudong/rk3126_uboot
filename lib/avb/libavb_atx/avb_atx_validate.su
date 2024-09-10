@@ -1,0 +1,9 @@
+lib/avb/libavb_atx/avb_atx_validate.c:44:13:sha256	336	static
+lib/avb/libavb_atx/avb_atx_validate.c:70:13:sha256_str	16	static
+lib/avb/libavb_atx/avb_atx_validate.c:57:13:sha512	416	static
+lib/avb/libavb_atx/avb_atx_validate.c:75:13:verify_permanent_attributes	56	static
+lib/avb/libavb_atx/avb_atx_validate.c:151:13:verify_certificate	112	static
+lib/avb/libavb_atx/avb_atx_validate.c:192:13:verify_pik_certificate	64	static
+lib/avb/libavb_atx/avb_atx_validate.c:257:13:avb_atx_validate_vbmeta_public_key	4440	static
+lib/avb/libavb_atx/avb_atx_validate.c:358:13:avb_atx_generate_unlock_challenge	1080	static
+lib/avb/libavb_atx/avb_atx_validate.c:386:13:avb_atx_validate_unlock_credential	1232	static

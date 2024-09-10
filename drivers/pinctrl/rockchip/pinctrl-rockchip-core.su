@@ -1,0 +1,8 @@
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:543:12:rockchip_pinctrl_get_pins_count	8	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:453:12:rockchip_pinctrl_set_state	576	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:40:6:rockchip_get_recalced_mux	24	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:88:5:rockchip_get_mux_data	16	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:152:12:rockchip_pinctrl_get_gpio_mux	48	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:259:5:rockchip_translate_drive_value	0	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:307:5:rockchip_translate_pull_value	0	static
+drivers/pinctrl/rockchip/pinctrl-rockchip-core.c:672:5:rockchip_pinctrl_probe	56	static

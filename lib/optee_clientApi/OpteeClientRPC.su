@@ -1,0 +1,8 @@
+lib/optee_clientApi/OpteeClientRPC.c:30:13:OpteeRpcAlloc	16	static
+lib/optee_clientApi/OpteeClientRPC.c:52:13:OpteeRpcFree	8	static
+lib/optee_clientApi/OpteeClientRPC.c:58:13:OpteeRpcCmdLoadV2Ta	16	static
+lib/optee_clientApi/OpteeClientRPC.c:98:13:OpteeRpcCmdRpmb	32	static
+lib/optee_clientApi/OpteeClientRPC.c:370:13:OpteeRpcCmdFs	8	static
+lib/optee_clientApi/OpteeClientRPC.c:392:13:OpteeRpcCmdGetTime	0	static
+lib/optee_clientApi/OpteeClientRPC.c:400:13:OpteeRpcCmdWaitMutex	0	static
+lib/optee_clientApi/OpteeClientRPC.c:408:13:OpteeRpcCallback	24	static

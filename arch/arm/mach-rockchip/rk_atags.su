@@ -1,0 +1,8 @@
+arch/arm/mach-rockchip/rk_atags.c:121:12:js_hash	8	static
+arch/arm/mach-rockchip/rk_atags.c:135:5:atags_bad_magic	8	static
+arch/arm/mach-rockchip/rk_atags.c:158:5:atags_overflow	8	static
+arch/arm/mach-rockchip/rk_atags.c:175:5:atags_is_available	0	static
+arch/arm/mach-rockchip/rk_atags.c:182:5:atags_set_tag	40	static
+arch/arm/mach-rockchip/rk_atags.c:318:13:atags_get_tag	16	static
+arch/arm/mach-rockchip/rk_atags.c:296:5:atags_set_shared_fwver	312	static
+arch/arm/mach-rockchip/rk_atags.c:418:6:atags_destroy	0	static

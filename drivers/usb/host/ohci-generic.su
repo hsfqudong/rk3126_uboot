@@ -1,0 +1,3 @@
+drivers/usb/host/ohci-generic.c:57:12:ohci_shutdown_phy	16	static
+drivers/usb/host/ohci-generic.c:167:12:ohci_usb_remove	16	static
+drivers/usb/host/ohci-generic.c:79:12:ohci_usb_probe	32	static

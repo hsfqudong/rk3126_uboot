@@ -1,0 +1,3 @@
+lib/avb/libavb_user/avb_user_verity.c:40:13:load_top_level_vbmeta_header	120	static
+lib/avb/libavb_user/avb_user_verity.c:129:6:avb_user_verity_get	328	static
+lib/avb/libavb_user/avb_user_verity.c:165:6:avb_user_verity_set	336	static

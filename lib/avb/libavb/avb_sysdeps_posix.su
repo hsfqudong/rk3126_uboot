@@ -1,0 +1,13 @@
+lib/avb/libavb/avb_sysdeps_posix.c:35:6:abort	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:39:5:avb_memcmp	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:43:7:avb_memcpy	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:47:7:avb_memset	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:51:5:avb_strcmp	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:55:5:avb_strncmp	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:59:8:avb_strlen	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:63:6:avb_abort	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:67:6:avb_print	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:71:6:avb_printv	16	static
+lib/avb/libavb/avb_sysdeps_posix.c:82:7:avb_malloc_	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:86:6:avb_free	0	static
+lib/avb/libavb/avb_sysdeps_posix.c:90:10:avb_div_by_10	16	static

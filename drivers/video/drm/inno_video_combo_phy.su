@@ -1,0 +1,5 @@
+drivers/video/drm/inno_video_combo_phy.c:890:12:inno_video_phy_set_mode	8	static
+drivers/video/drm/inno_video_combo_phy.c:776:12:inno_video_phy_power_off	8	static
+drivers/video/drm/inno_video_combo_phy.c:908:12:inno_video_phy_probe	24	static
+drivers/video/drm/inno_video_combo_phy.c:748:12:inno_video_phy_power_on	160	static
+drivers/video/drm/inno_video_combo_phy.c:869:22:inno_video_phy_set_pll	80	static

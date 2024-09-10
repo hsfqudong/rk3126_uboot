@@ -1,0 +1,7 @@
+drivers/clk/rockchip/clk_pll.c:370:14:rk3036_pll_get_rate.constprop	40	static
+drivers/clk/rockchip/clk_pll.c:51:5:gcd	0	static
+drivers/clk/rockchip/clk_pll.c:272:1:rockchip_get_pll_settings	32	static
+drivers/clk/rockchip/clk_pll.c:291:12:rk3036_pll_set_rate	24	static
+drivers/clk/rockchip/clk_pll.c:620:7:rockchip_pll_get_rate	32	static
+drivers/clk/rockchip/clk_pll.c:646:5:rockchip_pll_set_rate	24	static
+drivers/clk/rockchip/clk_pll.c:676:1:rockchip_get_cpu_settings	0	static

@@ -1,0 +1,3 @@
+lib/optee_clientApi/OpteeClientLoadTa.c:14:5:is_uuid_equal	24	static
+lib/optee_clientApi/OpteeClientLoadTa.c:33:6:tee_uuid_from_octets	0	static
+lib/optee_clientApi/OpteeClientLoadTa.c:43:5:search_ta	360	static

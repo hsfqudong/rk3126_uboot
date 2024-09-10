@@ -1,0 +1,17 @@
+drivers/clk/rockchip/clk_rk3128.c:139:14:rockchip_mmc_get_clk	8	static
+drivers/clk/rockchip/clk_rk3128.c:223:14:rk3128_peri_get_clk	8	static
+drivers/clk/rockchip/clk_rk3128.c:304:14:rk3128_bus_get_clk	8	static
+drivers/clk/rockchip/clk_rk3128.c:499:14:rk3128_crypto_get_rate	8	static
+drivers/clk/rockchip/clk_rk3128.c:258:14:rk3128_peri_set_clk	24	static
+drivers/clk/rockchip/clk_rk3128.c:333:14:rk3128_bus_set_clk	24	static
+drivers/clk/rockchip/clk_rk3128.c:91:14:rk3128_armclk_set_clk	24	static
+drivers/clk/rockchip/clk_rk3128.c:841:12:rk3128_clk_probe	16	static
+drivers/clk/rockchip/clk_rk3128.c:799:12:rk3128_clk_ofdata_to_platdata	16	static
+drivers/clk/rockchip/clk_rk3128.c:859:12:rk3128_clk_bind	24	static
+drivers/clk/rockchip/clk_rk3128.c:593:14:rk3128_clk_set_rate	24	static
+drivers/clk/rockchip/clk_rk3128.c:529:14:rk3128_clk_get_rate	8	static
+drivers/clk/rockchip/clk_rk3128.c:675:5:rk3128_mmc_get_phase	16	static
+drivers/clk/rockchip/clk_rk3128.c:756:12:rk3128_clk_get_phase	0	static
+drivers/clk/rockchip/clk_rk3128.c:711:5:rk3128_mmc_set_phase	24	static
+drivers/clk/rockchip/clk_rk3128.c:774:12:rk3128_clk_set_phase	0	static
+drivers/clk/rockchip/clk_rk3128.c:919:5:soc_clk_dump	56	static

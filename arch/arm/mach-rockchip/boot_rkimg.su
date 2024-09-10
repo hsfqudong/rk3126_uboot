@@ -1,0 +1,11 @@
+arch/arm/mach-rockchip/boot_rkimg.c:55:12:bootdev_init	16	static
+arch/arm/mach-rockchip/boot_rkimg.c:43:12:rk_board_early_fdt_fixup	0	static
+arch/arm/mach-rockchip/boot_rkimg.c:48:12:rk_board_scan_bootdev	0	static
+arch/arm/mach-rockchip/boot_rkimg.c:87:13:boot_devtype_init	24	static
+arch/arm/mach-rockchip/boot_rkimg.c:244:18:rockchip_get_bootdev	160	static
+arch/arm/mach-rockchip/boot_rkimg.c:284:6:rockchip_set_bootdev	0	static
+arch/arm/mach-rockchip/boot_rkimg.c:299:12:rockchip_dnl_key_pressed	8	static
+arch/arm/mach-rockchip/boot_rkimg.c:329:6:setup_download_mode	8	static
+arch/arm/mach-rockchip/boot_rkimg.c:357:6:board_run_recovery_wipe_data	1224	static
+arch/arm/mach-rockchip/boot_rkimg.c:525:5:rockchip_read_dtb_file	104	static
+arch/arm/mach-rockchip/boot_rkimg.c:556:5:rockchip_ram_read_dtb_file	32	static

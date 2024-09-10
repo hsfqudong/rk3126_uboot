@@ -1,0 +1,7 @@
+common/bootm.c:50:12:board_do_bootm	0	static
+common/bootm.c:55:12:bootm_board_start	0	static
+common/bootm.c:248:5:bootm_find_images	40	static
+common/bootm.c:377:5:bootm_parse_comp	16	static
+common/bootm.c:409:5:bootm_decomp_image	72	static
+common/bootm.c:561:7:bootm_disable_interrupts	8	static
+common/bootm.c:686:5:do_bootm_states	88	static

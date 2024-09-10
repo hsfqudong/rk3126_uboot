@@ -1,0 +1,4 @@
+drivers/video/display-uclass.c:13:5:display_read_edid	0	static
+drivers/video/display-uclass.c:22:5:display_enable	16	static
+drivers/video/display-uclass.c:41:5:display_read_timing	272	static
+drivers/video/display-uclass.c:60:6:display_in_use	8	static

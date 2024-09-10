@@ -1,0 +1,1 @@
+lib/avb/libavb/avb_footer.c:28:6:avb_footer_validate_and_byteswap	24	static

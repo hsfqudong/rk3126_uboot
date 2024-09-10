@@ -1,0 +1,12 @@
+arch/arm/mach-rockchip/fit.c:139:14:fit_get_blob.constprop	144	static
+arch/arm/mach-rockchip/fit.c:38:12:fit_sig_require_conf.constprop	24	static
+arch/arm/mach-rockchip/fit.c:57:5:fit_default_conf_get_node	16	static
+arch/arm/mach-rockchip/fit.c:88:12:fdt_image_get_offset_size	32	static
+arch/arm/mach-rockchip/fit.c:127:12:fit_image_get_param	16	static
+arch/arm/mach-rockchip/fit.c:68:5:fix_image_set_addr	16	static
+arch/arm/mach-rockchip/fit.c:217:12:fit_image_fixup_alloc	48	static
+arch/arm/mach-rockchip/fit.c:246:5:fit_image_pre_process	8	static
+arch/arm/mach-rockchip/fit.c:268:5:fit_image_fail_process	24	static
+arch/arm/mach-rockchip/fit.c:339:7:fit_image_get_bootables_size	48	static
+arch/arm/mach-rockchip/fit.c:365:7:fit_image_load_bootables	144	static
+arch/arm/mach-rockchip/fit.c:409:7:fit_image_init_resource	184	static

@@ -1,0 +1,2 @@
+drivers/input/rk_key.c:11:12:rk_key_ofdata_to_platdata	24	static
+drivers/input/rk_key.c:57:12:rk_key_bus_bind	0	static

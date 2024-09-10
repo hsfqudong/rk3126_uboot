@@ -1,0 +1,17 @@
+drivers/video/drm/rockchip_lvds.c:243:12:rockchip_lvds_probe	24	static
+drivers/video/drm/rockchip_lvds.c:224:12:rockchip_lvds_connector_disable	8	static
+drivers/video/drm/rockchip_lvds.c:202:12:rockchip_lvds_connector_enable	16	static
+drivers/video/drm/rockchip_lvds.c:113:12:rockchip_lvds_connector_init	24	static
+drivers/video/drm/rockchip_lvds.c:374:13:rk3562_lvds_disable	0	static
+drivers/video/drm/rockchip_lvds.c:365:13:rk3562_lvds_enable	8	static
+drivers/video/drm/rockchip_lvds.c:354:13:rk3368_lvds_disable	0	static
+drivers/video/drm/rockchip_lvds.c:346:13:rk3368_lvds_enable	0	static
+drivers/video/drm/rockchip_lvds.c:336:13:rk3288_lvds_disable	0	static
+drivers/video/drm/rockchip_lvds.c:292:13:rk3126_lvds_disable	0	static
+drivers/video/drm/rockchip_lvds.c:285:13:rk3126_lvds_enable	0	static
+drivers/video/drm/rockchip_lvds.c:274:13:px30_lvds_disable	0	static
+drivers/video/drm/rockchip_lvds.c:266:13:px30_lvds_enable	0	static
+drivers/video/drm/rockchip_lvds.c:303:13:rk3288_lvds_enable	16	static
+drivers/video/drm/rockchip_lvds.c:408:13:rk3568_lvds_enable	8	static
+drivers/video/drm/rockchip_lvds.c:384:12:rk3568_lvds_probe	16	static
+drivers/video/drm/rockchip_lvds.c:427:13:rk3568_lvds_disable	0	static

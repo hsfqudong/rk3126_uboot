@@ -1,0 +1,5 @@
+lib/avb/libavb/avb_descriptor.c:126:13:count_descriptors	0	static
+lib/avb/libavb/avb_descriptor.c:138:13:set_descriptors	8	static
+lib/avb/libavb/avb_descriptor.c:29:6:avb_descriptor_validate_and_byteswap	24	static
+lib/avb/libavb/avb_descriptor.c:41:6:avb_descriptor_foreach	64	static
+lib/avb/libavb/avb_descriptor.c:144:23:avb_descriptor_get_all	40	static

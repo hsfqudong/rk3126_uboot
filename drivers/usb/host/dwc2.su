@@ -1,0 +1,11 @@
+drivers/usb/host/dwc2.c:149:13:dwc_otg_core_reset	16	static
+drivers/usb/host/dwc2.c:1310:12:dwc2_usb_ofdata_to_platdata	16	static
+drivers/usb/host/dwc2.c:1340:12:dwc2_usb_remove	16	static
+drivers/usb/host/dwc2.c:1326:12:dwc2_usb_probe	32	static
+drivers/usb/host/dwc2.c:811:5:wait_for_chhltd	24	static
+drivers/usb/host/dwc2.c:908:5:chunk_msg	88	static
+drivers/usb/host/dwc2.c:1276:12:dwc2_submit_control_msg	88	static
+drivers/usb/host/dwc2.c:1035:5:_submit_bulk_msg	32	static
+drivers/usb/host/dwc2.c:1288:12:dwc2_submit_bulk_msg	24	static
+drivers/usb/host/dwc2.c:1113:5:_submit_int_msg	40	static
+drivers/usb/host/dwc2.c:1298:12:dwc2_submit_int_msg	32	static

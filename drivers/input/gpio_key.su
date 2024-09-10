@@ -1,0 +1,2 @@
+drivers/input/gpio_key.c:11:12:gpio_key_ofdata_to_platdata	16	static
+drivers/input/gpio_key.c:43:12:gpio_key_bus_bind	0	static

@@ -1,0 +1,4 @@
+test/rockchip/test-misc.c:27:13:timer_irq_handler	16	static
+test/rockchip/test-misc.c:195:12:do_test_adc	24	static
+test/rockchip/test-misc.c:155:5:do_test_key	32	static
+test/rockchip/test-misc.c:89:5:do_test_timer	16	static

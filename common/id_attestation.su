@@ -1,0 +1,4 @@
+common/id_attestation.c:18:6:printAttestationIds	8	static
+common/id_attestation.c:35:10:read_id_attestation_digest	304	dynamic,bounded
+common/id_attestation.c:50:10:write_id_attestation	16	static
+common/id_attestation.c:58:13:write_id_attestation_to_secure_storage	656	static

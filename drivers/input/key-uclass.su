@@ -1,0 +1,7 @@
+drivers/input/key-uclass.c:324:12:key_post_probe	24	static
+drivers/input/key-uclass.c:33:10:key_timer	16	static
+drivers/input/key-uclass.c:260:13:gpio_irq_handler	16	static
+drivers/input/key-uclass.c:136:5:key_is_pressed	0	static
+drivers/input/key-uclass.c:180:5:key_read	64	static
+drivers/input/key-uclass.c:218:5:key_exist	16	static
+drivers/input/key-uclass.c:294:5:key_bind_children	40	static

@@ -1,0 +1,5 @@
+drivers/video/rockchip/rk_mipi.c:53:13:rk_mipi_dsi_write	20	static
+drivers/video/rockchip/rk_mipi.c:173:13:rk_mipi_phy_write.constprop	24	static
+drivers/video/rockchip/rk_mipi.c:29:5:rk_mipi_read_timing	8	static
+drivers/video/rockchip/rk_mipi.c:79:5:rk_mipi_dsi_enable	24	static
+drivers/video/rockchip/rk_mipi.c:198:5:rk_mipi_phy_enable	376	static

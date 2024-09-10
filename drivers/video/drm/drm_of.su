@@ -1,0 +1,2 @@
+drivers/video/drm/drm_of.c:39:1:drm_of_lvds_get_remote_pixels_type	48	static
+drivers/video/drm/drm_of.c:125:5:drm_of_lvds_get_dual_link_pixel_order	16	static

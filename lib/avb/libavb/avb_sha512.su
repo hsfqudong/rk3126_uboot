@@ -1,0 +1,4 @@
+lib/avb/libavb/avb_sha512.c:169:13:SHA512_transform	816	static
+lib/avb/libavb/avb_sha512.c:135:6:avb_sha512_init	12	static
+lib/avb/libavb/avb_sha512.c:335:6:avb_sha512_update	32	static
+lib/avb/libavb/avb_sha512.c:375:10:avb_sha512_final	32	static

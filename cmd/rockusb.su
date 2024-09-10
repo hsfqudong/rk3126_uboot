@@ -1,0 +1,9 @@
+cmd/rockusb.c:93:13:rkusb_fini	16	static
+cmd/rockusb.c:69:12:rkusb_erase_sector	0	static
+cmd/rockusb.c:40:12:rkusb_write_sector	32	static
+cmd/rockusb.c:22:12:rkusb_read_sector	16	static
+cmd/rockusb.c:188:6:rkusb_force_to_usb2	0	static
+cmd/rockusb.c:194:6:rkusb_force_usb2_enabled	0	static
+cmd/rockusb.c:202:6:rkusb_switch_to_usb3_enable	0	static
+cmd/rockusb.c:208:6:rkusb_switch_usb3_enabled	0	static
+cmd/rockusb.c:216:12:do_rkusb	176	static

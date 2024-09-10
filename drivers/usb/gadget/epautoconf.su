@@ -1,0 +1,2 @@
+drivers/usb/gadget/epautoconf.c:218:16:usb_ep_autoconfig	32	static
+drivers/usb/gadget/epautoconf.c:310:6:usb_ep_autoconfig_reset	8	static

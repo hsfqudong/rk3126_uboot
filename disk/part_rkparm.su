@@ -1,0 +1,4 @@
+disk/part_rkparm.c:111:12:rkparm_init_param.constprop	40	static
+disk/part_rkparm.c:174:12:part_get_info_rkparm	24	static
+disk/part_rkparm.c:148:13:part_print_rkparm	32	static
+disk/part_rkparm.c:219:12:part_test_rkparm	8	static

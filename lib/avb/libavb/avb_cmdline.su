@@ -1,0 +1,7 @@
+lib/avb/libavb/avb_cmdline.c:174:15:uint64_to_base10	64	static
+lib/avb/libavb/avb_cmdline.c:133:12:cmdline_append_option	40	static
+lib/avb/libavb/avb_cmdline.c:36:7:avb_sub_cmdline	144	static
+lib/avb/libavb/avb_cmdline.c:234:21:avb_append_options	176	static
+lib/avb/libavb/avb_cmdline.c:410:22:avb_new_cmdline_subst_list	0	static
+lib/avb/libavb/avb_cmdline.c:414:6:avb_free_cmdline_subst_list	16	static
+lib/avb/libavb/avb_cmdline.c:424:21:avb_add_root_digest_substitution	24	static

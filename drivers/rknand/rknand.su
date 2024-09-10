@@ -1,0 +1,10 @@
+drivers/rknand/rknand.c:28:7:rknand_bread	24	static
+drivers/rknand/rknand.c:51:7:rknand_bwrite	24	static
+drivers/rknand/rknand.c:74:7:rknand_berase	24	static
+drivers/rknand/rknand.c:97:5:rkftl_nand_vendor_read	8	static
+drivers/rknand/rknand.c:111:5:rkftl_nand_vendor_write	8	static
+drivers/rknand/rknand.c:161:12:rknand_blk_probe	16	static
+drivers/rknand/rknand.c:182:12:rockchip_nand_probe	16	static
+drivers/rknand/rknand.c:145:12:rknand_blk_bind	32	static
+drivers/rknand/rknand.c:15:18:rknand_get_blk_desc	16	static
+drivers/rknand/rknand.c:125:5:rknand_scan_namespace	24	static

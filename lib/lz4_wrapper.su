@@ -1,0 +1,3 @@
+lib/lz4_wrapper.c:22:13:LZ4_copy8	8	static
+lib/lz4_wrapper.c:38:6:lz4_is_valid_header	0	static
+lib/lz4_wrapper.c:52:5:ulz4fn	152	static

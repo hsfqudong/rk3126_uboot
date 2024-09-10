@@ -1,0 +1,8 @@
+test/rockchip/test-storage.c:349:12:do_test_vendor	0	static
+test/rockchip/test-storage.c:412:12:do_test_part	0	static
+test/rockchip/test-storage.c:324:12:do_test_secure_storage	0	static
+test/rockchip/test-storage.c:69:12:do_test_storage.constprop	264	static
+test/rockchip/test-storage.c:261:12:do_test_emmc	0	static
+test/rockchip/test-storage.c:275:12:do_test_rknand	0	static
+test/rockchip/test-storage.c:420:12:do_test_usb	8	static
+test/rockchip/test-storage.c:267:12:do_test_sdmmc	0	static

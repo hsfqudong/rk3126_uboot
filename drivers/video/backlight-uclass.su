@@ -1,0 +1,2 @@
+drivers/video/backlight-uclass.c:12:5:backlight_enable	0	static
+drivers/video/backlight-uclass.c:22:5:backlight_disable	0	static

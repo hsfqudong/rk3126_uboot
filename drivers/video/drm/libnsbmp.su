@@ -1,0 +1,12 @@
+drivers/video/drm/libnsbmp.c:512:19:bmp_decode_rgb32	48	static
+drivers/video/drm/libnsbmp.c:662:19:bmp_decode_rgb16	56	static
+drivers/video/drm/libnsbmp.c:75:19:bmp_info_header_parse	32	static
+drivers/video/drm/libnsbmp.c:1185:1:bmp_create	16	static
+drivers/video/drm/libnsbmp.c:1197:1:ico_collection_create	16	static
+drivers/video/drm/libnsbmp.c:1209:12:bmp_analyse	8	static
+drivers/video/drm/libnsbmp.c:1231:12:ico_analyse	40	static
+drivers/video/drm/libnsbmp.c:1246:12:bmp_decode	80	static
+drivers/video/drm/libnsbmp.c:1311:12:bmp_decode_trans	0	static
+drivers/video/drm/libnsbmp.c:1320:12:ico_find	16	static
+drivers/video/drm/libnsbmp.c:1346:6:bmp_finalise	16	static
+drivers/video/drm/libnsbmp.c:1358:6:ico_finalise	16	static

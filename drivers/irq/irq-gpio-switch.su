@@ -1,0 +1,8 @@
+drivers/irq/irq-gpio-switch.c:48:12:gpio_is_valid	8	static
+drivers/irq/irq-gpio-switch.c:61:12:__hard_gpio_to_irq	16	static
+drivers/irq/irq-gpio-switch.c:213:5:gpio_to_irq	32	static
+drivers/irq/irq-gpio-switch.c:260:5:hard_gpio_to_irq	8	static
+drivers/irq/irq-gpio-switch.c:268:5:phandle_gpio_to_irq	40	static
+drivers/irq/irq-gpio-switch.c:276:5:irq_to_gpio	8	static
+drivers/irq/irq-gpio-switch.c:281:19:gpio_id_to_bank	8	static
+drivers/irq/irq-gpio-switch.c:293:19:gpio_to_bank	8	static

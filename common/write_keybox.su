@@ -1,0 +1,5 @@
+common/write_keybox.c:25:13:write_to_security_storage	504	static
+common/write_keybox.c:123:10:rk_send_keybox_to_ta	488	static
+common/write_keybox.c:354:10:read_raw_data_from_secure_storage	24	static
+common/write_keybox.c:373:7:new_strstr	24	static
+common/write_keybox.c:225:10:write_keybox_to_secure_storage	80	static

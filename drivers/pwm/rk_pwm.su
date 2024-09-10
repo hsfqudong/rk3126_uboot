@@ -1,0 +1,11 @@
+drivers/pwm/rk_pwm.c:117:12:rk_pwm_set_invert	16	static
+drivers/pwm/rk_pwm.c:258:12:rk_pwm_set_enable	16	static
+drivers/pwm/rk_pwm.c:210:12:rk_pwm_set_config	24	static
+drivers/pwm/rk_pwm.c:91:12:rk_pwm_set_invert_v4	8	static
+drivers/pwm/rk_pwm.c:104:12:rk_pwm_set_invert_v1	0	static
+drivers/pwm/rk_pwm.c:265:12:rk_pwm_ofdata_to_platdata	16	static
+drivers/pwm/rk_pwm.c:274:12:rk_pwm_probe	24	static
+drivers/pwm/rk_pwm.c:218:12:rk_pwm_set_enable_v4	16	static
+drivers/pwm/rk_pwm.c:232:12:rk_pwm_set_enable_v1	16	static
+drivers/pwm/rk_pwm.c:129:12:rk_pwm_set_config_v4	32	static
+drivers/pwm/rk_pwm.c:156:12:rk_pwm_set_config_v1	40	static

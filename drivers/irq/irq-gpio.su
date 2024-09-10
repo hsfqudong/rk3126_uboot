@@ -1,0 +1,10 @@
+drivers/irq/irq-gpio.c:51:13:gpio_bit_op	8	static
+drivers/irq/irq-gpio.c:120:13:gpio_set_intr_type	8	static
+drivers/irq/irq-gpio.c:249:12:gpio_irq_get_gpio_level	8	static
+drivers/irq/irq-gpio.c:212:12:gpio_irq_revert_type	8	static
+drivers/irq/irq-gpio.c:174:12:gpio_irq_set_type	16	static
+drivers/irq/irq-gpio.c:285:12:gpio_irq_disable	16	static
+drivers/irq/irq-gpio.c:264:12:gpio_irq_enable	16	static
+drivers/irq/irq-gpio.c:309:12:gpio_irq_init	24	static
+drivers/irq/irq-gpio.c:84:13:generic_gpio_handle_irq	40	static
+drivers/irq/irq-gpio.c:350:18:arch_gpio_get_irqchip	0	static

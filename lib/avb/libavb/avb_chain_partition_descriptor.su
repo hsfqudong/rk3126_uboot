@@ -1,0 +1,1 @@
+lib/avb/libavb/avb_chain_partition_descriptor.c:28:6:avb_chain_partition_descriptor_validate_and_byteswap	32	static

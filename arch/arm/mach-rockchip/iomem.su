@@ -1,0 +1,4 @@
+arch/arm/mach-rockchip/iomem.c:18:6:iomem_show	32	static
+arch/arm/mach-rockchip/iomem.c:38:12:iomem_show_by_match	48	static
+arch/arm/mach-rockchip/iomem.c:82:12:do_iomem_by_match	24	static
+arch/arm/mach-rockchip/iomem.c:77:6:iomem_show_by_compatible	0	static

@@ -1,0 +1,9 @@
+drivers/power/charge_animation.c:369:13:autowake_timer_handler	8	static
+drivers/power/charge_animation.c:381:13:autowakeup_timer_init	8	static
+drivers/power/charge_animation.c:460:12:fg_charger_get_chrg_online	8	static
+drivers/power/charge_animation.c:399:13:autowakeup_timer_uninit	8	static
+drivers/power/charge_animation.c:192:12:charge_animation_ofdata_to_platdata	32	static
+drivers/power/charge_animation.c:1067:12:charge_animation_probe	24	static
+drivers/power/charge_animation.c:470:12:sys_shutdown.isra	16	static
+drivers/power/charge_animation.c:304:12:system_suspend_enter.isra	24	static
+drivers/power/charge_animation.c:568:12:charge_animation_show	112	static

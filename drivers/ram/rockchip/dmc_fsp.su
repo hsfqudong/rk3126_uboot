@@ -1,0 +1,2 @@
+drivers/ram/rockchip/dmc_fsp.c:346:12:get_atf_version	24	static
+drivers/ram/rockchip/dmc_fsp.c:358:12:dmc_fsp_probe	56	static

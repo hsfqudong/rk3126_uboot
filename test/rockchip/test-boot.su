@@ -1,0 +1,4 @@
+test/rockchip/test-boot.c:34:12:do_test_distro	0	static
+test/rockchip/test-boot.c:26:12:do_test_bootrkp	0	static
+test/rockchip/test-boot.c:10:12:do_test_android	0	static
+test/rockchip/test-boot.c:18:12:do_test_android_avb	0	static

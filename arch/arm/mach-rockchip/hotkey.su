@@ -1,0 +1,2 @@
+arch/arm/mach-rockchip/hotkey.c:26:6:is_hotkey	0	static
+arch/arm/mach-rockchip/hotkey.c:52:6:hotkey_run	8	static

@@ -1,0 +1,7 @@
+drivers/mmc/rockchip_dw_mmc.c:94:12:rockchip_dwmmc_ofdata_to_platdata	16	static
+drivers/mmc/rockchip_dw_mmc.c:72:13:rockchip_dwmmc_get_mmc_clk	16	static
+drivers/mmc/rockchip_dw_mmc.c:465:12:rockchip_dwmmc_bind	8	static
+drivers/mmc/rockchip_dw_mmc.c:176:12:rockchip_mmc_set_phase.constprop.isra	24	static
+drivers/mmc/rockchip_dw_mmc.c:373:12:rockchip_dwmmc_probe	32	static
+drivers/mmc/rockchip_dw_mmc.c:254:12:rockchip_dwmmc_execute_tuning	120	static
+drivers/mmc/rockchip_dw_mmc.c:54:5:board_mmc_dm_reinit	16	static

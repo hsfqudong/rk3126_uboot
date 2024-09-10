@@ -1,0 +1,3 @@
+drivers/video/rockchip/rk_vop.c:317:6:rk_vop_probe_regulators	24	static
+drivers/video/rockchip/rk_vop.c:334:5:rk_vop_probe	216	static
+drivers/video/rockchip/rk_vop.c:373:5:rk_vop_bind	8	static

@@ -1,0 +1,10 @@
+common/attestation_key.c:104:13:copy_from_buf	16	static
+common/attestation_key.c:92:13:free_cert_chain	16	static
+common/attestation_key.c:115:13:copy_blob_from_buf	16	static
+common/attestation_key.c:133:13:copy_cert_chain_from_buf	88	static
+common/attestation_key.c:201:17:write_key	96	static
+common/attestation_key.c:216:17:write_cert.isra	96	static
+common/attestation_key.c:229:17:write_cert_chain_length.isra	96	static
+common/attestation_key.c:244:13:load_attestation_key	66328	static
+common/attestation_key.c:396:13:read_key_data	160	static
+common/attestation_key.c:434:13:write_attestation_key_to_secure_storage	65664	static

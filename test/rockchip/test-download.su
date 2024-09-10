@@ -1,0 +1,4 @@
+test/rockchip/test-download.c:26:12:do_test_rockusb	0	static
+test/rockchip/test-download.c:18:12:do_test_fastboot	0	static
+test/rockchip/test-download.c:10:12:do_test_brom	0	static
+test/rockchip/test-download.c:34:12:do_test_tftp	136	static

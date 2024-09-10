@@ -1,0 +1,17 @@
+drivers/usb/host/ohci-hcd.c:652:12:ep_rev	16	static
+drivers/usb/host/ohci-hcd.c:253:13:urb_free_priv	8	static
+drivers/usb/host/ohci-hcd.c:1768:12:hc_reset	16	static
+drivers/usb/host/ohci-hcd.c:1469:20:ohci_get_ohci_dev	16	static
+drivers/usb/host/ohci-hcd.c:2185:12:ohci_destroy_int_queue	16	static
+drivers/usb/host/ohci-hcd.c:897:13:td_fill.constprop	40	static
+drivers/usb/host/ohci-hcd.c:1903:12:hc_interrupt	48	static
+drivers/usb/host/ohci-hcd.c:2177:14:ohci_poll_int_queue	8	static
+drivers/usb/host/ohci-hcd.c:512:5:sohci_submit_job	88	static
+drivers/usb/host/ohci-hcd.c:2167:26:ohci_create_int_queue	40	static
+drivers/usb/host/ohci-hcd.c:1516:12:submit_common_msg	32	static
+drivers/usb/host/ohci-hcd.c:2157:12:ohci_submit_int_msg	24	static
+drivers/usb/host/ohci-hcd.c:2149:12:ohci_submit_bulk_msg	32	static
+drivers/usb/host/ohci-hcd.c:2139:12:ohci_submit_control_msg	72	static
+drivers/usb/host/ohci-hcd.c:1221:5:rh_check_port_status	16	static
+drivers/usb/host/ohci-hcd.c:2193:5:ohci_register	24	static
+drivers/usb/host/ohci-hcd.c:2220:5:ohci_deregister	8	static

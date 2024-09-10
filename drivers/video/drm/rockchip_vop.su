@@ -1,0 +1,13 @@
+drivers/video/drm/rockchip_vop.c:82:13:is_yuv_output	0	static
+drivers/video/drm/rockchip_vop.c:252:13:vop_mcu_mode_setup	20	static
+drivers/video/drm/rockchip_vop.c:273:12:rockchip_vop_preinit	0	static
+drivers/video/drm/rockchip_vop.c:874:12:rockchip_vop_prepare	0	static
+drivers/video/drm/rockchip_vop.c:879:12:rockchip_vop_enable	20	static
+drivers/video/drm/rockchip_vop.c:892:12:rockchip_vop_disable	16	static
+drivers/video/drm/rockchip_vop.c:902:12:rockchip_vop_fixup_dts	0	static
+drivers/video/drm/rockchip_vop.c:1022:12:rockchip_vop_plane_check	24	static
+drivers/video/drm/rockchip_vop.c:1046:12:rockchip_vop_mode_fixup	8	static
+drivers/video/drm/rockchip_vop.c:1004:12:rockchip_vop_mode_valid	48	static
+drivers/video/drm/rockchip_vop.c:944:12:rockchip_vop_send_mcu_cmd	24	static
+drivers/video/drm/rockchip_vop.c:785:12:rockchip_vop_set_plane	72	static
+drivers/video/drm/rockchip_vop.c:282:12:rockchip_vop_init	152	static

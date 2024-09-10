@@ -1,0 +1,2 @@
+drivers/ram/rockchip/sdram_rk3128.c:34:12:rk3128_dmc_get_info	8	static
+drivers/ram/rockchip/sdram_rk3128.c:21:12:rk3128_dmc_probe	8	static

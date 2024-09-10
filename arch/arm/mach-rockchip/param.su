@@ -1,0 +1,8 @@
+arch/arm/mach-rockchip/param.c:55:17:param_parse_atf_mem	24	static
+arch/arm/mach-rockchip/param.c:99:17:param_parse_optee_mem	8	static
+arch/arm/mach-rockchip/param.c:146:17:param_parse_common_resv_mem	0	static
+arch/arm/mach-rockchip/param.c:167:5:param_parse_assign_bootdev	24	static
+arch/arm/mach-rockchip/param.c:186:5:param_parse_atags_bootdev	16	static
+arch/arm/mach-rockchip/param.c:288:18:param_parse_ddr_mem	56	static
+arch/arm/mach-rockchip/param.c:418:5:param_parse_pre_serial	8	static
+arch/arm/mach-rockchip/param.c:448:5:param_parse_pubkey_fuse_programmed	8	static

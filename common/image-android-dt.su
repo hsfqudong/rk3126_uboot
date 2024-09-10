@@ -1,0 +1,4 @@
+common/image-android-dt.c:20:6:android_dt_check_header	0	static
+common/image-android-dt.c:42:6:android_dt_get_fdt_by_index	24	static
+common/image-android-dt.c:103:6:android_dt_print_contents	40	static
+common/image-android-dt.c:164:5:android_dt_get_count	0	static

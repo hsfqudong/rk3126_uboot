@@ -1,0 +1,4 @@
+cmd/gpt.c:96:14:extract_val	32	static
+cmd/gpt.c:37:12:extract_env	56	static
+cmd/gpt.c:373:12:set_gpt_info.constprop	72	static
+cmd/gpt.c:816:12:do_gpt	96	dynamic

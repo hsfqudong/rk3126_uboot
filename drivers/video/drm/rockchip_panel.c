@@ -67,6 +67,7 @@ struct rockchip_panel_priv {
 	struct udevice *backlight;
 	struct spi_slave *spi_slave;
 	struct gpio_desc enable_gpio;
+	struct gpio_desc pwr_gpio;
 	struct gpio_desc reset_gpio;
 
 	int cmd_type;
@@ -306,7 +307,7 @@ static void panel_simple_prepare(struct rockchip_panel *panel)
 		regulator_set_enable(priv->power_supply, !plat->power_invert);
 
 	if (dm_gpio_is_valid(&priv->enable_gpio))
-		dm_gpio_set_value(&priv->enable_gpio, 0);
+		dm_gpio_set_value(&priv->enable_gpio, 1);
 
 	if (plat->delay.prepare)
 		mdelay(plat->delay.prepare);
@@ -489,6 +490,15 @@ static int rockchip_panel_probe(struct udevice *dev)
 		printf("%s: Cannot get enable GPIO: %d\n", __func__, ret);
 		return ret;
 	}
+
+	ret = gpio_request_by_name(dev, "pwr-gpios", 0,
+                                   &priv->pwr_gpio, GPIOD_IS_OUT);
+        if (ret && ret != -ENOENT) {
+                printf("%s: Cannot get pwr GPIO: %d\n", __func__, ret);
+                return ret;
+        }
+
+	dm_gpio_set_value(&priv->pwr_gpio, 1);
 
 	ret = gpio_request_by_name(dev, "reset-gpios", 0,
 				   &priv->reset_gpio, GPIOD_IS_OUT);
